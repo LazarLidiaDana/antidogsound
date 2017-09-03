@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="839a395341c63cd8f154d0b94d1c95620724d3ef">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c7c2bff68c42eb5ae29607ecd58f1160ebb2fc0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_29783c221d788ecd397ba0a573c3e51d46fc5b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9937a75fcf15dcfff191e077270e45fe3c05cc1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="710f42fdee0e313839086d582cbd00e32112d180">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_69295a808a185df391b9ac031c6acc5d627b701b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4b23b87cbb5334c4ac12f204b35fe39fffbbe1a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fa538b74533ee431c3fdf641826e169eb629750a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b967a3a59f6970d86123d3106365dd2432f8c3b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f1d7864953e1102aa62d358e0bb5d40a2c9f1ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6aa8c70330e9fb003366162411648423e3fea499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_43165f9deff447c80bf7187fb9f50efcc4106037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_da8c5186de176ac31dcc5b9a2664b23d80105eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e6df30fc6111e5f6b2006c5a38419c3148046037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b05d7d23bc24343ca113f82d5d358780fed0d26f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ad661e9d554a4a44d54e03145049bc2027908432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_08e553218ffacf71763363677a9cc97c2a36b433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8e6d4994161ad622a7c68782151fcb45b2062c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lidia\AndroidStudioProjects\AntiDogSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4c190effbd50901a41e3cd0e3698054f558a0c46\classes.dex" />
+    </item>
+
+</items>

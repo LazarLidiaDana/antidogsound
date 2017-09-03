@@ -1,0 +1,7 @@
+#Sun Sep 03 23:02:11 EEST 2017
+base.0=C\:\\Users\\Lidia\\AndroidStudioProjects\\AntiDogSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c7c2bff68c42eb5ae29607ecd58f1160ebb2fc0d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Lidia\\AndroidStudioProjects\\AntiDogSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69295a808a185df391b9ac031c6acc5d627b701b\\classes.dex
+base.1=C\:\\Users\\Lidia\\AndroidStudioProjects\\AntiDogSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69295a808a185df391b9ac031c6acc5d627b701b
+file.0=C\:\\Users\\Lidia\\AndroidStudioProjects\\AntiDogSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c7c2bff68c42eb5ae29607ecd58f1160ebb2fc0d\\classes.dex
